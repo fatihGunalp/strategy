@@ -1,0 +1,133 @@
+﻿Şebeke akımı kesildi,AC failure,1,K,2,1
+Fan Hatası,Fan failure,2,K,2,1
+KGK Hata,UPS failure,3,K,2,1
+Charger hatası,Charger failure,4,K,2,1
+Aşırıyükleme hatası,Overload failure,5,K,2,1
+Yüksek sıcaklık hatası,Over temperature fault.,6,K,2,1
+Inverter kısa-devre hatası,Inverter short-circuited,7,K,2,1
+Akü sigoarta hatası,Battery fuse being open-dcircuited failure,8,K,2,1
+Düşük Akü seviyesi,The UPS has returned from a low battery,9,K,2,1
+Sistem kapanıyor,System is going to shutdown,10,K,2,1
+Site hatası,Site fault,11,K,2,1
+Faz sıralaması hatalı,Phase sequence incorrect,12,K,2,1
+Baypass ta faz sıralaması hatalı,Phase sequence incorrect in bypass,13,K,4,1
+Fan Alarmı,Fan alarm.,14,K,2,1
+EOP aktifleştirildi,EPO enabled,15,K,2,1
+KGK yı açmak mümkün değil,Unalbe to turn on UPS,16,K,2,1
+Sıcaklık değerleri limitler dışında,Over temperature alarm,17,K,2,1
+Baypass ta giriş frekansıtutarsız,Input frequency unstable in bypass,18,K,2,1
+Charger alarmı,Charger alarm,19,K,2,1
+L1 giriş sigortası çalışmıyor,L1 input fuse not working,20,K,2,1
+Netural bağlı değil,Neutral not connected,21,K,2,1
+L2 giriş sigortası çalışmıyor,L2 input fuse not working,22,K,2,1
+L3 giriş sigortası çalışmıyor,L3 input fuse not working,23,K,2,1
+Pozitif PFC L1 de anormal,Positive PFC abnormal in L1,24,K,2,1
+Negatif PFC  L1  anormal,Negative PFC abnormal in L1,25,K,2,1
+Pozitif PFC L2 de anormal,Positive PFC abnormal in L2,26,K,2,1
+Negatif PFC  L2  anormal,Negative PFC abnormal in L2,27,K,2,1
+Pozitif PFC L3 de anormal,Positive PFC abnormal in L3,28,K,2,1
+Negatif PFC  L3  anormal,Negative PFC abnormal in L3,29,K,2,1
+Bus Volotajı limitler dışında,Bus voltage not within default setting,30,K,2,1
+Bus Voltajı Maksimum değerin üstünde,Bus voltage over maxinum value,31,K,2,1
+Bus Voltajı Maksimum değerin altında,Bus voltage below mininum value,32,K,2,1
+Bus Voltaj farkı kabuledilen değerlein dışında,Bus voltage differences out fo acceptable range,33,K,2,1
+Bus voltajı eğim oranı hızla düşüyor,Bus voltage of slope rate drops too fast,34,K,2,1
+UYARI:PFC giriş induktöründe akım hatası,WARNING:Over current in PFC input inductor.,35,K,2,1
+Inverter voltage not within default setting.,Inverter voltage not within default setting.,36,K,2,1
+Inverter voltage over maximum value.,Inverter voltage over maximum value.,37,K,2,1
+Inverter voltage below minimum value.,Inverter voltage below minimum value.,38,K,2,1
+Battery oppositely connected.,Battery oppositely connected.,39,K,2,1
+L2Phase inverter short-cicuited.,L2Phase inverter short-cicuited.,40,K,2,1
+L3Phase inverter short-cicuited.,L3Phase inverter short-cicuited.,41,K,2,1
+L1L2Inverter short-cicuited.,L1L2Inverter short-cicuited.,42,K,2,1
+L2L3Inverter short-cicuited.,L2L3Inverter short-cicuited.,43,K,2,1
+L3L1Inverter short-cicuited.,L3L1Inverter short-cicuited.,44,K,2,1
+L1 inverter negative powere out of acceptable range.,L1 inverter negative powere out of acceptable range.,45,K,2,1
+L2 inverter negative powere out of acceptable range.,L2 inverter negative powere out of acceptable range.,46,K,2,1
+L3 inverter negative powere out of acceptable range.,L3 inverter negative powere out of acceptable range.,47,K,2,1
+Battery SCR short-circuited.,Battery SCR short-circuited.,48,K,2,1
+Line SCR short-circuited.,Line SCR short-circuited.,49,K,2,1
+Inverter relay open fault.,Inverter relay open fault.,50,K,2,1
+Inverter relay short-circuited.,Inverter relay short-circuited.,51,K,2,1
+Input and output wires oppositely connected.,Input and output wires oppositely connected.,52,K,2,1
+Abnormal in CAN-bus communication.,Abnormal in CAN-bus communication.,53,K,2,1
+Communication failure between cpus in control board.Or DSP and MCU communication error,Communication failure between cpus in control board.Or DSP and MCU communication error,54,K,2,1
+Abnomal in synchronous signal circuit.,Abnomal in synchronous signal circuit.,55,K,2,1
+Abnomal in synchronous pulse signal circuit.,Abnomal in synchronous pulse signal circuit.,56,K,2,1
+Warning for a three-phase input current unbalance detected.,Warning for a three-phase input current unbalance detected.,57,K,2,1
+Battery self-test failure.,Battery self-test failure.,58,K,2,1
+Inverter inter-current unbalance.,Inverter inter-current unbalance.,59,K,2,1
+Battery disconnected.,Battery disconnected.,60,K,2,1
+Abnormal in host signal circuit.,Abnormal in host signal circuit.,61,K,2,1
+Bettery overcharged.,Bettery overcharged.,62,K,2,1
+Bettery voltage is too high.,Bettery voltage is too high.,63,K,2,1
+Bettery voltage is too low.,Bettery voltage is too low.,64,K,2,1
+Female connector of parallel cable not connected well.,Female connector of parallel cable not connected well.,65,K,2,1
+Male connector of parallel cable not connected well.,Male connector of parallel cable not connected well.,66,K,2,1
+Locking inbypass mode after 3 consecutive overloads within 30 minutes,Locking inbypass mode after 3 consecutive overloads within 30 minutes,67,U,3,0
+Parallel cable disconnected,Parallel cable disconnected,68,K,2,1
+Synchronous pulse signal circuit fault,Synchronous pulse signal circuit fault,69,K,2,1
+Synchronous  signal circuit fault,Synchronous  signal circuit fault,70,K,2,1
+Host signal circuit fault,Host signal circuit fault,71,K,2,1
+Can-bus communication fault,Can-bus communication fault,72,K,2,1
+Low loss point for voltage in ac mode not consistent in parallel systems,Low loss point for voltage in ac mode not consistent in parallel systems,73,K,2,1
+High loss point for voltage in ac mode not consistent in parallel systems,High loss point for voltage in ac mode not consistent in parallel systems,74,K,2,1
+Low loss point for frequency in ac mode not consistent in parallel systems,Low loss point for frequency in ac mode not consistent in parallel systems,75,K,2,1
+High loss point for frequency in ac mode not consistent in parallel systems,High loss point for frequency in ac mode not consistent in parallel systems,76,K,2,1
+Low loss point for voltage in bypass mode not consistent in parallel systems,Low loss point for voltage in bypass mode not consistent in parallel systems,77,K,2,1
+High loss point for voltage in bypass mode not consistent in parallel systems,High loss point for voltage in bypass mode not consistent in parallel systems,78,K,2,1
+Low loss point for frequency in bypass mode not consistent in parallel systems,Low loss point for frequency in bypass mode not consistent in parallel systems,79,K,2,1
+High loss point for frequency in bypass mode not consistent in parallel systems,High loss point for frequency in bypass mode not consistent in parallel systems,80,K,2,1
+Load unbalanced,Load unbalanced,81,K,2,1
+Overload alarm,Overload alarm,82,K,2,1
+Parallel cable not connected well,Parallel cable not connected well,83,K,2,1
+Communication lost,Communication lost,84,K,2,1
+Battery connection not consistent in parallel systems,Battery connection not consistent in parallel systems,85,K,2,1
+Converter setting not consistent in parallel systems,Converter setting not consistent in parallel systems,86,K,2,1
+Bypass not allowed setting not consistent in parallel systems,Bypass not allowed setting not consistent in parallel systems,87,K,2,1
+AC connection not consistent in parallel systems,AC connection not consistent in parallel systems,88,K,2,1
+Warning for three-phase ac input current unbalance,Warning for three-phase ac input current unbalance,89,U,3,0
+Bypass connection not consistent in parallel systems,Bypass connection not consistent in parallel systems,90,U,3,0
+Battery protection setting not consistent in parallel systems,Battery protection setting not consistent in parallel systems,91,U,3,0
+Battery detection setting not consistent in parallel systems,Battery detection setting not consistent in parallel systems,92,U,3,0
+UPS model types not consistent in parallel systems,UPS model types not consistent in parallel systems,93,U,3,0
+Bypass setting not consistent in parallel systems,Bypass setting not consistent in parallel systems,94,U,3,0
+Capacity of upss not consistent in parallel systems,Capacity of upss not consistent in parallel systems,95,K,1,1
+Auto restart setting not consistent in parallel systems,Auto restart setting not consistent in parallel systems,96,U,3,0
+Battery need to be replace,Battery need to be replace,97,U,3,0
+Şebeke akımı normal,AC normal,100,B,1,0
+Output bad alarm,Output bad alarm,103,K,2,1
+Bypass bad alarm,Bypass bad alarm,104,K,2,1
+Output off alarm,Output off alarm,105,K,2,1
+UPS shutdown alarm,UPS shutdown alarm,106,K,2,1
+System off alarm,System off alarm,107,K,2,1
+Fuse failure alarm,Fuse failure alarm,108,K,2,1
+General failure alarm,General failure alarm,109,K,2,1
+Awaiting power alarm,Awaiting power alarm,110,K,2,1
+Shutdown pending alarm,Shutdown pending alarm,111,K,2,1
+Battery depleted,Battery depleted,112,K,2,1
+Battery unknow status,Battery unknow status,113,K,2,1
+Çıkış açık,Output on,114,B,1,0
+Ups turn to bypass mode,Ups turn to bypass mode,115,K,4,1
+Ups turn to battery mode,Ups turn to battery mode,116,K,4,1
+Turn to booster,Turn to booster,117,K,2,1
+Turn to reducer,Turn to reducer,118,K,2,1
+Turn to battery test mode,Turn to battery test mode,119,B,3,0
+Other source,Other source,120,B,1,0
+Battery failure,Battery failure,121,K,2,1
+Battery test passed,Battery test passed,122,B,3,0
+Battery test done warning ,Battery test done warning ,123,B,3,0
+Battery test done Aborted,Battery test done Aborted,124,B,3,0
+Battery normal,Battery normal,125,B,3,0
+Battery Discharging  ,Battery Discharging  ,126,K,2,1
+P1 cut off pre-alarm ,P1 cut off pre-alarm ,127,K,2,1
+Warning for input phase error for LV 6-10K UPS,Warning for input phase error for LV 6-10K UPS,128,U,3,0
+Warning for maintain switch open,Warning for maintain switch open,129,U,3,0
+EMD Channels 1 Abnormal,EMD Channels 1 Abnormal,130,K,2,1
+EMD Channels 2 Abnormal,EMD Channels 2 Abnormal,131,K,2,1
+EMD Channels 3 Abnormal,EMD Channels 3 Abnormal,132,K,2,1
+EMD Channels 4 Abnormal,EMD Channels 4 Abnormal,133,K,2,1
+EMD Channels 5 Abnormal: smoke alarm,EMD Channels 5 Abnormal: smoke alarm,134,K,2,1
+EMD Channels 6 Abnormal,EMD Channels 6 Abnormal,135,K,2,1
+EMD Channels 7 Abnormal,EMD Channels 7 Abnormal,136,K,2,1
+EMD Channels 8 Abnormal,EMD Channels 8 Abnormal,137,K,2,1
